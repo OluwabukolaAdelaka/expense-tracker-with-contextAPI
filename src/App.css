@@ -19,6 +19,11 @@ body {
   font-family: "Lato", sans-serif;
 }
 
+.footer {
+  margin-top: 3rem;
+  text-align: center;
+}
+
 .container {
   margin: 30px auto;
   width: 350px;
